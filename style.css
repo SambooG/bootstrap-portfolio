@@ -1,0 +1,18 @@
+/* .justify-content-end{ */
+    /* flex: auto; */
+/* } */
+
+body{
+    background-image: url("./images/bgimage.jpeg");
+background-size: cover;
+}
+.card{
+    border: plum 1px solid;
+    padding: 10px;
+} 
+
+.row{ 
+    padding: 3px;
+}
+
+
